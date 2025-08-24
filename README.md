@@ -1,6 +1,6 @@
 ## AKSHAY SADAMATE
 
-This project contains an **SQLite database** (`assign.db`) with sample data
+This project contains an **SQLite database** (`assign.db`) 
 It includes four tables: **Customer, Items, Sales, and Orders**.
 
 ---
