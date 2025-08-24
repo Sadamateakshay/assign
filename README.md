@@ -1,5 +1,5 @@
 
-This project contains an **SQLite database** (`assignment_db.db`).  
+This project contains an **SQLite database** (`assign.db`).  
 It includes four tables: **Customer, Items, Sales, and Orders**.
 
 ## Database Schema
