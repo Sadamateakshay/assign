@@ -1,9 +1,6 @@
-## AKSHAY SADAMATE
 
-This project contains an **SQLite database** (`assign.db`) 
+This project contains an **SQLite database** (`assignment_db.db`).  
 It includes four tables: **Customer, Items, Sales, and Orders**.
-
----
 
 ## Database Schema
 
@@ -61,4 +58,15 @@ It includes four tables: **Customer, Items, Sales, and Orders**.
 | 1 | 1 | 775.50 |
 | 2 | 2 | 195.00 |
 | 3 | 3 | 25.50 |
-| 4 | 4 | 8
+| 4 | 4 | 895.00 |
+
+### Orders
+| order_id | sales_id | item_id | quantity |
+|----------|----------|---------|----------|
+| 1 | 1 | 1 | 1 |
+| 2 | 1 | 2 | 1 |
+| 3 | 2 | 3 | 3 |
+| 4 | 3 | 2 | 1 |
+| 5 | 4 | 1 | 1 |
+| 6 | 4 | 4 | 1 |
+
